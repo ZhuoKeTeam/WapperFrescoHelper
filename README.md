@@ -19,6 +19,6 @@ allprojects {
 2.在项目下的 build.gradle 添加依赖：
 ```
 dependencies {  
-	        compile 'com.github.ZhuoKeTeam:WapperFrescoHelper:1.0.0'      
+    compile 'com.github.ZhuoKeTeam:WapperFrescoHelper:1.0.0'      
 }  
 ```
