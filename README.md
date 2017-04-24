@@ -1,6 +1,8 @@
 # WapperFrescoHelper
 Fresco 使用封装
 
+对该库的二次封装：https://github.com/hpdx/fresco-helper
+
 如何使用：
 
 1.在根项目下的 build.gradle 添加如下代码：
